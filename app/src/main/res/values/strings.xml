@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Stell Gallery</string>
+    <string name="let_s_go">Let’s go!</string>
+    <string name="stell">Stell</string>
+    <string name="gallery">Gallery</string>
+    <string name="content">A space for you to access your good times with a click and record adventures and special moments with family or friends, using our quick and very practical organization system.</string>
+    <string name="description_statue_of_freedom">Ста́туя Свобо́ды — колоссальная скульптура, расположенная в США на острове Свободы, находящемся в Верхней Нью-Йоркской бухте, примерно в трёх километрах к юго-западу от южной окраины острова Манхэттен</string>
+    <string name="new_york">New York</string>
+    <string name="statue_of_freedom">Статуя свободы</string>
+    <string name="street">Улица</string>
+    <string name="advert">Реклама</string>
+    <string name="dog">Песик</string>
+    <string name="bridge">Мост</string>
+</resources>
